@@ -2,6 +2,7 @@
 Putting a pre-made PLJ-8LED module (2.4 GHz frequency meter) in an enclosure
 
 - Purchased a cheap PLJ-8LD module clone online.
+- Original is made by Sanjian Studios. 
 - Module is a 2.4 GHz frequency meter with 2 separate input ranges:
   - 100kHz to 50MHz (low frequency range) with 1 Hz resolution (not same as accuracy) 
   - 50MHz to 2.4GHz (high frequency range) with 64 Hz resolution (not same as accuracy) 
