@@ -6,7 +6,7 @@ Putting a pre-made PLJ-8LED module (2.4 GHz frequency meter) in an enclosure
 - Module is a 2.4 GHz frequency meter with 2 separate input ranges:
   - 100kHz to 50MHz (low frequency range) with 1 Hz resolution (not same as accuracy) 
   - 50MHz to 2.4GHz (high frequency range) with 64 Hz resolution (not same as accuracy) 
-- Module requires a 12V DC input
+- Module requires 12V DC power 
 - Has two pushbuttons to navigate menus to allow changes in settings
 - Project was put in an enclosure with power switch, DC barrel jack for power, etc.
 - Module has a 13MHz TCXO that drives the microcontroller that takes the measurements
